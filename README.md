@@ -28,7 +28,7 @@ Este projeto é um simples programa Java que simula a criação de uma conta ban
 
 1. **Clone o repositório** para o seu ambiente local:
    ```bash
-   git clone https://github.com/seu-usuario/ContaBanco.git
+   git clone https://github.com/carolinegomesdecarvalho/ContaBanco.git
    ```
 
 2. **Abra o projeto** em sua IDE Java preferida.
